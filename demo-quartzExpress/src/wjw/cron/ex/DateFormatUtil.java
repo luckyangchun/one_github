@@ -20,7 +20,6 @@ public abstract class DateFormatUtil {
       return new HashMap<String, DateFormat>();
     }
   };
-
   public static DateFormat getDateFormat(String pattern) {
     DateFormat dateFormat = _threadLocal.get().get(pattern);
     if (dateFormat == null) {

@@ -19,7 +19,6 @@ public class CronExpressionEx extends CronExpression {
   private String daysOfMonthExp;
   private String monthsExp;
   private String daysOfWeekExp;
-
   public CronExpressionEx(String cronExpression) throws ParseException {
     super(cronExpression);
 
