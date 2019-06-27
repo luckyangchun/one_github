@@ -9,7 +9,7 @@ import java.util.Map;
 
 /**
  * 使用ThreadLocal以空间换时间解决SimpleDateFormat线程安全问题。
- *
+ *添加注释
  * @author wstone
  */
 public abstract class DateFormatUtil {

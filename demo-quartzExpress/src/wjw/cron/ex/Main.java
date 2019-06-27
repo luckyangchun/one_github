@@ -8,7 +8,7 @@ import javax.swing.UIManager;
 import javax.swing.border.Border;
 
 /**
- *
+ *Ìí¼Ó×¢ÊÍ
  * @author Administrator
  */
 public class Main {

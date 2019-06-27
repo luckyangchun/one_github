@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 import javax.swing.SpinnerNumberModel;
 
 /**
- *
+ *×¢ÊÍÌí¼Ó
  * @author Administrator
  */
 public class MainJFrame extends javax.swing.JFrame {
